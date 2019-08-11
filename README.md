@@ -8,6 +8,8 @@ To use the Gmail server you have to activate less-secure apps permissions here: 
 #### Supported mail servers:
 - Gmail
 - Yahoo
+- Outlook
+
 
 
 ![Screenshot](https://github.com/BlackmanWhite/MailTerrorist/blob/master/images/mail.PNG)
